@@ -1,0 +1,27 @@
+.main {
+    display: -webkit-flex;
+    padding: 0;
+}
+
+#content-list {
+    border-right: 1px solid rgb(215, 201, 201);
+    width: 45%;
+    padding: 10px;
+}
+
+#content-detail {
+    padding: 15px;
+}
+
+#content-detail div {
+    height: 10%;
+    display: -webkit-flex;
+}
+
+.file-button {
+    margin: 7px;
+    width: 97.5%;
+    height: 8.2%;
+    display: -webkit-flex;
+    justify-content: space-between;
+}
